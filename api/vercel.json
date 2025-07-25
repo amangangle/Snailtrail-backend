@@ -1,16 +1,1 @@
-{
 
-  "routes": [
-
-    {
-
-      "src": "/api/(.*)",
-
-      "dest": "api/snailtrail.py"
-
-    }
-
-  ]
-
-}
- 
