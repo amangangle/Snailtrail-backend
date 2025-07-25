@@ -1,1 +1,3 @@
-# Snailtrail-backend
+flask
+requests
+python-dotenv
